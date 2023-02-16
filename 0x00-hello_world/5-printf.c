@@ -1,9 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - print a c program using printf
- * Return: 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Sucess)
  */
 int main(void)
-{pintf("with proper grammar, but the outcome is a piece of art,\n")
-return (0);
+{
+	printf("with the proper grammer, but the outcome is a piece of art,\n");
+	return (0);
 }
